@@ -3,12 +3,6 @@
 RSS feed of Kong Gateway changelog entries, built from the upstream
 [Kong/developer.konghq.com](https://github.com/Kong/developer.konghq.com) changelog data.
 
-Migrated off Val.town. A daily GitHub Actions workflow (`.github/workflows/update-feed.yml`)
-regenerates `dist/feed.xml` and publishes it via GitHub Pages.
-
-- Feed: see the Pages URL once published (Settings → Pages), path `/feed.xml`.
-- Regenerate locally: `node generate-feed.mjs` (writes `dist/feed.xml`, `dist/index.html`, and updates the release table below).
-
 ## Releases
 
 <!-- RELEASE_TABLE:START -->
@@ -29,3 +23,13 @@ _⚠️ marks a release line past its EOL date._
 | 3.7 | [3.7.1.5](https://developer.konghq.com/gateway/changelog/#3-7-1-5) | 3.7.1 | 2025-04-10 | 2025-05-31 ⚠️ | — | Yes |
 | 3.4 | [3.4.3.29](https://developer.konghq.com/gateway/changelog/#3-4-3-29) | 3.4.2 | 2026-08-10 | 2026-08-31 ⚠️ | Yes | Yes |
 <!-- RELEASE_TABLE:END -->
+
+## More
+
+A daily GitHub Actions workflow (`.github/workflows/update-feed.yml`) regenerates
+`dist/feed.xml` and publishes it via GitHub Pages.
+
+- Feed: see the Pages URL once published (Settings → Pages), path `/feed.xml`.
+- Regenerate locally: `node generate-feed.mjs` (writes `dist/feed.xml`, `dist/index.html`, and updates the release table below).
+
+Because: Kong doesn't publish a feed.
