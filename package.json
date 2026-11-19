@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
+  "license": "Unlicense",
   "description": "RSS feed of Kong Gateway changelog entries, regenerated daily and published via GitHub Pages",
   "scripts": {
     "generate": "node generate-feed.mjs"

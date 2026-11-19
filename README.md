@@ -1,7 +1,11 @@
 # kong-gateway-changelog
 
+[![Last updated](https://img.shields.io/github/last-commit/nemo-lm/kong-gateway-changelog)](https://github.com/nemo-lm/kong-gateway-changelog/commits/main)
+
 RSS feed of Kong Gateway changelog entries, built from the upstream
 [Kong/developer.konghq.com](https://github.com/Kong/developer.konghq.com) changelog data.
+
+Subscribe at: <https://nemo-lm.github.io/kong-gateway-changelog/feed.xml>.
 
 ## Releases
 
@@ -33,3 +37,7 @@ A daily GitHub Actions workflow (`.github/workflows/update-feed.yml`) regenerate
 - Regenerate locally: `node generate-feed.mjs` (writes `dist/feed.xml`, `dist/index.html`, and updates the release table below).
 
 Because: Kong doesn't publish a feed.
+
+## License
+
+Licensed under <https://unlicense.org/>.
