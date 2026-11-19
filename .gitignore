@@ -1,0 +1,4 @@
+dist/
+node_modules/
+/gateway-changelog/
+.claude/settings.local.json

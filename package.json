@@ -1,0 +1,10 @@
+{
+  "name": "kong-gateway-changelog",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "RSS feed of Kong Gateway changelog entries, regenerated daily and published via GitHub Pages",
+  "scripts": {
+    "generate": "node generate-feed.mjs"
+  }
+}
