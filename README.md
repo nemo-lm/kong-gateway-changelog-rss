@@ -1,11 +1,11 @@
-# kong-gateway-changelog
+# kong-gateway-changelog-rss
 
-[![Last updated](https://img.shields.io/github/last-commit/nemo-lm/kong-gateway-changelog)](https://github.com/nemo-lm/kong-gateway-changelog/commits/main)
+[![Last updated](https://img.shields.io/github/last-commit/nemo-lm/kong-gateway-changelog-rss)](https://github.com/nemo-lm/kong-gateway-changelog-rss/commits/main)
 
 RSS feed of Kong Gateway changelog entries, built from the upstream
 [Kong/developer.konghq.com](https://github.com/Kong/developer.konghq.com) changelog data.
 
-Subscribe at: <https://nemo-lm.github.io/kong-gateway-changelog/feed.xml>.
+Subscribe at: <https://nemo-lm.github.io/kong-gateway-changelog-rss/feed.xml>.
 
 ## Releases
 
