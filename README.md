@@ -15,13 +15,13 @@ _⚠️ marks a release line past its EOL date._
 
 | Release | Latest EE patch | Latest OSS | Released | EOL | LTS | Sunset |
 | --- | --- | --- | --- | --- | --- | --- |
-| **3.16 (latest)** | [3.16.0.2](https://developer.konghq.com/gateway/changelog/#3-16-0-2) | — | 2026-11-10 | 2027-09-15 | — | — |
-| 3.15 | [3.15.0.7](https://developer.konghq.com/gateway/changelog/#3-15-0-7) | — | 2026-11-10 | 2027-07-02 | — | — |
-| 3.14 | [3.14.0.17](https://developer.konghq.com/gateway/changelog/#3-14-0-17) | — | 2026-11-10 | 2029-04-07 | Yes | — |
-| 3.13 | [3.13.0.12](https://developer.konghq.com/gateway/changelog/#3-13-0-12) | — | 2026-11-10 | 2026-12-18 | — | — |
+| **3.16 (latest)** | [3.16.0.3](https://developer.konghq.com/gateway/changelog/#3-16-0-3) | — | 2026-11-19 | 2027-09-15 | — | — |
+| 3.15 | [3.15.0.8](https://developer.konghq.com/gateway/changelog/#3-15-0-8) | — | 2026-11-19 | 2027-07-02 | — | — |
+| 3.14 | [3.14.0.18](https://developer.konghq.com/gateway/changelog/#3-14-0-18) | — | 2026-11-19 | 2029-04-07 | Yes | — |
+| 3.13 | [3.13.0.13](https://developer.konghq.com/gateway/changelog/#3-13-0-13) | — | 2026-11-19 | 2026-12-18 | — | — |
 | 3.12 | [3.12.0.12](https://developer.konghq.com/gateway/changelog/#3-12-0-12) | — | 2026-09-02 | 2026-10-01 ⚠️ | — | Yes |
 | 3.11 | [3.11.0.14](https://developer.konghq.com/gateway/changelog/#3-11-0-14) | — | 2026-06-30 | 2026-07-03 ⚠️ | — | Yes |
-| 3.10 | [3.10.0.20](https://developer.konghq.com/gateway/changelog/#3-10-0-20) | — | 2026-11-10 | 2028-03-31 | Yes | — |
+| 3.10 | [3.10.0.21](https://developer.konghq.com/gateway/changelog/#3-10-0-21) | — | 2026-11-19 | 2028-03-31 | Yes | — |
 | 3.9 | [3.9.1.2](https://developer.konghq.com/gateway/changelog/#3-9-1-2) | 3.9.3 | 2025-07-07 | 2025-12-12 ⚠️ | — | Yes |
 | 3.8 | [3.8.1.2](https://developer.konghq.com/gateway/changelog/#3-8-1-2) | 3.8.1 | 2025-07-02 | 2025-09-11 ⚠️ | — | Yes |
 | 3.7 | [3.7.1.5](https://developer.konghq.com/gateway/changelog/#3-7-1-5) | 3.7.1 | 2025-04-10 | 2025-05-31 ⚠️ | — | Yes |
