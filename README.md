@@ -25,7 +25,7 @@ _⚠️ marks a release line past its EOL date._
 | 3.9 | [3.9.1.2](https://developer.konghq.com/gateway/changelog/#3-9-1-2) | 3.9.3 | 2025-07-07 | 2025-12-12 ⚠️ | — | Yes |
 | 3.8 | [3.8.1.2](https://developer.konghq.com/gateway/changelog/#3-8-1-2) | 3.8.1 | 2025-07-02 | 2025-09-11 ⚠️ | — | Yes |
 | 3.7 | [3.7.1.5](https://developer.konghq.com/gateway/changelog/#3-7-1-5) | 3.7.1 | 2025-04-10 | 2025-05-31 ⚠️ | — | Yes |
-| 3.4 | [3.4.3.29](https://developer.konghq.com/gateway/changelog/#3-4-3-29) | 3.4.2 | 2026-08-10 | 2026-08-31 ⚠️ | Yes | Yes |
+| 3.4 | [3.4.3.30](https://developer.konghq.com/gateway/changelog/#3-4-3-30) | 3.4.2 | 2026-11-23 | 2026-08-31 ⚠️ | Yes | Yes |
 <!-- RELEASE_TABLE:END -->
 
 ## More
