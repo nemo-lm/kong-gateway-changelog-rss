@@ -17,7 +17,7 @@ _⚠️ marks a release line past its EOL date._
 | --- | --- | --- | --- | --- | --- | --- |
 | **3.16 (latest)** | [3.16.0.3](https://developer.konghq.com/gateway/changelog/#3-16-0-3) | — | 2026-11-19 | 2027-09-15 | — | — |
 | 3.15 | [3.15.0.8](https://developer.konghq.com/gateway/changelog/#3-15-0-8) | — | 2026-11-19 | 2027-07-02 | — | — |
-| 3.14 | [3.14.0.18](https://developer.konghq.com/gateway/changelog/#3-14-0-18) | — | 2026-11-19 | 2029-04-07 | Yes | — |
+| 3.14 | [3.14.0.19](https://developer.konghq.com/gateway/changelog/#3-14-0-19) | — | 2026-11-26 | 2029-04-07 | Yes | — |
 | 3.13 | [3.13.0.13](https://developer.konghq.com/gateway/changelog/#3-13-0-13) | — | 2026-11-19 | 2026-12-18 | — | — |
 | 3.12 | [3.12.0.12](https://developer.konghq.com/gateway/changelog/#3-12-0-12) | — | 2026-09-02 | 2026-10-01 ⚠️ | — | Yes |
 | 3.11 | [3.11.0.14](https://developer.konghq.com/gateway/changelog/#3-11-0-14) | — | 2026-06-30 | 2026-07-03 ⚠️ | — | Yes |
